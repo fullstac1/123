@@ -1,1 +1,1 @@
-print("welcome to tumkur")
+print("welcome to tumkur from")
